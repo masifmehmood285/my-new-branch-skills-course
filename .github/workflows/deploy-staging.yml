@@ -10,7 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: gracepark-azure-ttt
-  AZURE_WEBAPP_NAME: grackpark-ttt-app
+  AZURE_WEBAPP_NAME: gracepark-ttt-app
   ###############################################
 
 jobs:
